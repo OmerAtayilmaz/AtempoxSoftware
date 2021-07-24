@@ -1,0 +1,17 @@
+{
+    "users":
+    [
+        {
+            "name":"omer",
+            "pass":"321"
+        },
+        {
+            "name":"furkan",
+            "pass":"123"
+        },
+        {
+            "name":"senol",
+            "pass":"000"
+        }
+    ]    
+}
