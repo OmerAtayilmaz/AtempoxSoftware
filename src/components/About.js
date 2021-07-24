@@ -1,5 +1,5 @@
-import React, { Component } from 'react'
-
+import React, { Component } from 'react';
+import img from '../assets/images/network.png';
 export default class About extends Component {
     render() {
         return (
@@ -18,7 +18,7 @@ export default class About extends Component {
               </ul>
           </div>
           <div className="col-md-6">
-           IMAGE
+           <img src={img} className="img-fluid" alt="img not found"/>
           </div>
         </div>
       </div>

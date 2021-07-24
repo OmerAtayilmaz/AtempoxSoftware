@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
+import img1 from '../assets/images/wave2.png';
+import img2 from '../assets/images/logom.png';
 
- class Footer extends Component {
+  class Footer extends Component {
     render() {
         return (
             <section>
@@ -18,11 +20,11 @@ import React, { Component } from 'react'
                 </section>
 
                 <section id="footer">
-                IMG
+                <img src={img1}  className="img-fluid" alt="img not found"/>
                 <div className="container">
                 <div className="row">
                     <div className="col-md-4 footer-box">
-                    IMAGE
+                    <img src={img2}  className="img-fluid" alt="img not found"/>
                     <p>Subscribe easy tutorials YouTube Channel to watch more video on website development, Digital Marketing, Wordpress and graphics Designing</p>
                     </div>
                     <div className="col-md-4 d-flex flex-column float-left footer-box">
