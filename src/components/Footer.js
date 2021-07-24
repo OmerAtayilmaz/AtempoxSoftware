@@ -25,7 +25,7 @@ import img2 from '../assets/images/logom.png';
                 <div className="row">
                     <div className="col-md-4 footer-box">
                     <img src={img2}  className="img-fluid" alt="img not found"/>
-                    <p>Subscribe easy tutorials YouTube Channel to watch more video on website development, Digital Marketing, Wordpress and graphics Designing</p>
+                    <p>Subscribe Ömer Atayilmaz YouTube Channel to watch more video on website development, Digital Marketing, Wordpress and graphics Designing</p>
                     </div>
                     <div className="col-md-4 d-flex flex-column float-left footer-box">
                     <p><b>CONTACT US</b></p>
